@@ -1,0 +1,2 @@
+*.sh text eol=lf
+hello_world/** text eol=lf
